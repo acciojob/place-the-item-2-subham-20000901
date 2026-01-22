@@ -1,2 +1,20 @@
-
+.holder{
+	display:flex;
+	justify-content:center;
+	flex-direction:row;
+	flex-wrap:wrap;
+}
+.item{
+	width:130px;
+	height:130px;
+}
+.red{
+	background-color:red;
+}
+.blue{
+	background-color:blue;
+}
+.green{
+	background-color:green;
+}
 /* Your CSS Code here. */
